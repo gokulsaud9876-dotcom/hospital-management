@@ -1,4 +1,4 @@
 Doctor ID: D103
 Doctor Name: Dr. Karthik
 Specialization: Orthopedic
-Experience: 12 Years.
+Experience: 12 Ye.ars.
